@@ -142,7 +142,7 @@ project ‘state transitions’. In addition, all projects are required to be wi
 
 Project creation reviews approved by the TSC are limited to the following scope:
 
-* IO –Hardware/vHardware  <-> threads/cores
+* IO –Hardware/vHardware <-> threads/cores
 * Processing
 * Classify
 * Transform
@@ -333,12 +333,18 @@ These should contain roughly the following sections:
 
 TSC Membership shall consist of:
 
+* Legacy Members
 * Core project’s Project Technical Leaders (PTLs).
 * A number of Committer-at-Large Elected Members to be set by the TSC.
+* Up to two TSC Appointed members
+
+No more than 50% of the TSC seats may be held by persons employed by the same company.
 
 ### 4.1.2 TSC Chair
 
-The TSC Member shall elect a TSC Chair.
+* The TSC Member shall elect a TSC Chair.
+* The TSC Chair shall have a term of one year.
+* The TSC Chair may stand for re-election.
 
 ## 4.2 TSC Operations
 
@@ -376,12 +382,12 @@ on a fd.io project in good standing.
 
 Candidates must self nominate.
 
-#### 4.2.3.2 Committer-at-large TSC Member Voters**
+#### 4.2.3.2 Committer-at-large TSC Member Voters
 
 All of the Committers on all fd.io projects vote together for Committer-at-Large
 members of the TSC.
 
-#### 4.2.3.3 Committer-at-large TSC Member Election Mechanics**
+#### 4.2.3.3 Committer-at-large TSC Member Election Mechanics
 
 The TSC shall establish a clear procedure for nomination and election of Committer-
 at-Large members.
@@ -390,6 +396,43 @@ Election of a TSC Chair shall use a multiple-candidate method, e.g.:
 
 * [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or 
 * [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
+
+#### 4.2.3.4 Committer-at-large TSC Member Term
+
+Committer-at-large TSC Members shall serve a one year term.
+
+### 4.2.4 TSC Appointed Members
+
+The TSC may itself appoint up to two members of the TSC.
+
+#### 4.2.4.1 Number of TSC Appointed Members
+
+* The TSC may at any point by majority vote add up to two TSC Appointed member seats to the TSC.
+* The TSC Appointed seat expires at the conclusion of the term of the person selected to fill it.
+
+#### 4.2.4.2 TSC Appointed Candidates
+
+* Candidates for TSC Appointment to the TSC are nominated by the existing TSC members.
+* Candidates must accept nomination prior to consideration.
+* Failure to accept within two weeks is considered declining the nomination.
+
+#### 4.2.4.3 TSC Appointed Member Voters
+* Existing TSC members may vote on admitting a candidate
+  * In the event that there are more candidates under consideration than available TSC Appointed seats, a multiple-candidate method, e.g.:
+    * [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or
+    * [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
+
+#### 4.2.4.4 TSC Appointed Member Term
+TSC Appointed Members shall serve a one year term.
+
+### 4.2.5 Legacy Members
+
+The TSC has three Legacy Members from its time as an independent foundation:
+* Ed Warnicke
+* Joel Halpern
+* Ray Kinsella
+
+The status of Legacy TSC membership should be revisited annually.
 
 ## 4.3 Responsibilities
 
