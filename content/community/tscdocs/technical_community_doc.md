@@ -87,12 +87,11 @@ traceable decision making process.
 Initial Committers for a project will be specified at project creation.
 
 Committer rights for a project are earned via code contribution and community
-trust.   Committers for a project select and vote for new Committers for that project,
+trust.  Committers for a project select and vote for new Committers for that project,
 subject to TSC approval.
 
 New Committers for a project should have a demonstrable established history of
 meritocratic code contribution.
-
 
 #### 3.2.2.2 Removing Committers
 
@@ -130,7 +129,6 @@ Only Committers for a project are eligible to vote for a project’s PTL.
 
 Election of a project’s PTL shall use a multiple-candidate method, e.g.:
 
-
 * [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or
 * [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
 
@@ -158,7 +156,6 @@ Project creation reviews approved by the TSC are limited to the following scope:
 * Integration with other systems
 
 ### 3.3.2 Project States
-
 
 | Project State |Description |
 |---------------|--------------|
@@ -359,7 +356,6 @@ Candidates for a TSC Chair must be TSC Members.
 
 Candidates must self nominate.
 
-
 #### 4.2.2.2 TSC Chair Voters
 
 Only TSC Members are eligible to vote for TSC Chair.
@@ -423,7 +419,7 @@ a project to participate.  In practice these are expected to build upon the
 * Milestones & Release Candidates
 * Dates and requirements for milestones and release candidates
   * This should include by which Milestone a Project must opt in to join
-  *This should include by which Milestone freezes of various sorts (for example 
+  * This should include by which Milestone freezes of various sorts (for example 
 API freeze) need to happen
 * Participating Projects
   * Projects which have opted into the Coordinated Release
@@ -436,5 +432,3 @@ technical charter of the Project.
 
 The normal amendment process is for either the TSC or the Committers-at-Large to
 propose changes using simple majority of the full TSC to resolve conflicts.  
-
-
